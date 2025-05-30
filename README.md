@@ -1,1 +1,1 @@
-#cs50's week 1 task to print "hello, world."
+#cs50x's problem sets that I have completed.
